@@ -1,5 +1,4 @@
-conflict from main
-this is my line of feature a
 
+this is my line
 C
 hello
